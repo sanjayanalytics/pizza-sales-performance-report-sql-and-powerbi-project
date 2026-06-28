@@ -33,25 +33,10 @@ Interactive Dashboard
 ## Tools & Technologies
 
 - SQL
-- Microsoft SQL Server
 - Power BI Desktop
 - Power Query
 - DAX
 - GitHub
-
----
-
-## Dataset
-
-The dataset contains pizza sales transaction data including:
-
-- Order Date
-- Pizza Name
-- Pizza Category
-- Pizza Size
-- Quantity
-- Unit Price
-- Total Price
 
 ---
 
